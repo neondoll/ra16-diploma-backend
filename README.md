@@ -1,4 +1,4 @@
-# Дипломный проект курса «React»
+# Дипломный проект курса «React» (Backend)
 
 [https://ra16-diploma-backend-mg6z.onrender.com](https://ra16-diploma-backend-mg6z.onrender.com)
 
