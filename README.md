@@ -1,6 +1,6 @@
 # Дипломный проект курса «React»
 
-[https://ra16-homeworks-saga-main-details-backend.onrender.com](https://ra16-homeworks-saga-main-details-backend.onrender.com)
+[https://ra16-diploma-backend-ggfr.onrender.com](https://ra16-diploma-backend-ggfr.onrender.com)
 
 ## Описание
 
