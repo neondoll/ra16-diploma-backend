@@ -1,6 +1,6 @@
 # Дипломный проект курса «React»
 
-[https://ra16-diploma-backend-ggfr.onrender.com](https://ra16-diploma-backend-ggfr.onrender.com)
+[https://ra16-diploma-backend-mg6z.onrender.com](https://ra16-diploma-backend-mg6z.onrender.com)
 
 ## Описание
 
